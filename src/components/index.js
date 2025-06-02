@@ -6,6 +6,8 @@ import LogoutBtn from './Header/LogoutBtn.jsx';
 import Button from './Button.jsx';
 import Inputs from './Inputs.jsx';
 import PostCards from './PostCards.jsx';
+import Select from './Select.jsx';
+import RTE from './RTE.jsx';  
 
 export {
   Header,
@@ -15,6 +17,8 @@ export {
   LogoutBtn,
   Button,
   Inputs,
-  PostCards
+  PostCards,
+  Select,
+  RTE,
 
 };
