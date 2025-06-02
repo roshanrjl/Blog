@@ -5,7 +5,7 @@ import Logo from './Logo.jsx';
 import LogoutBtn from './Header/LogoutBtn.jsx';
 import Button from './Button.jsx';
 import Inputs from './Inputs.jsx';
-import PostCards from './PostCard.jsx';
+import PostCards from './PostCards.jsx';
 
 export {
   Header,
